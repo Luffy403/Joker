@@ -1,7 +1,0 @@
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\bin\Debug\Practica A.exe.config
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\bin\Debug\Practica A.exe
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\bin\Debug\Practica A.pdb
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\obj\Debug\Practica A.csproj.AssemblyReference.cache
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\obj\Debug\Practica A.csproj.CoreCompileInputs.cache
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\obj\Debug\Practica A.exe
-C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\C#\Practica A\obj\Debug\Practica A.pdb
