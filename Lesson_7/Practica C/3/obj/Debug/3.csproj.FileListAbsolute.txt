@@ -1,0 +1,7 @@
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\bin\Debug\3.exe.config
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\bin\Debug\3.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\bin\Debug\3.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\obj\Debug\3.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_7\Practica C\3\obj\Debug\3.pdb
