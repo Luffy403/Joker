@@ -1,0 +1,7 @@
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\bin\Debug\Calculator.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\obj\Debug\Calculator.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\dz_3\Calculator\obj\Debug\Calculator.pdb
