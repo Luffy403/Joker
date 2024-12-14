@@ -1,0 +1,14 @@
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.exe.config
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.csproj.AssemblyReference.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.csproj.CoreCompileInputs.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\Вебинары(КОД)\back\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.exe.config
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\bin\Debug\Practica_A-B.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.csproj.AssemblyReference.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.csproj.CoreCompileInputs.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\Lesson_8\Practica_A-B\obj\Debug\Practica_A-B.pdb
