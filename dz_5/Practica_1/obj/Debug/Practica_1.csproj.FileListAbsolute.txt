@@ -1,0 +1,7 @@
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\obj\Debug\Practica_1.csproj.AssemblyReference.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\gdjyt\Desktop\Портфолио IT\backend\Вебинары(КОД)\C#\dz_5\Practica_1\obj\Debug\Practica_1.pdb
